@@ -16,7 +16,7 @@ Acting in accordance with the ordinary legislative procedure (2),
 Whereas:
 (1) A number of amendments are to be made to Regulation (EU, Euratom) 2018/1046 of the European Parliament and
 of the Council (3). In the interests of clarity and legal certainty, that Regulation should be recast.
-(2) This Regulation lays down the financial rules applicable to the general budget of the Union (the ‘budget’) within the
+(2) This Regulation lays down the financial rules applicable to the general budget of the Union (the â€˜budgetâ€™) within the
 meaning of Article 322 of the Treaty on the Functioning of the European Union (TFEU) and does not regulate or
 affect the implementation of restrictive measures adopted on the basis of the TFEU and the Treaty on European
 Union (TEU), including in the framework of implementation of the budget.
@@ -68,7 +68,7 @@ the Charter of Fundamental Rights of the European Union, and respect the Union v
 (11) This Regulation should enable authorising officers, where relevant in accordance with sector-specific rules, to adopt
 appropriate measures and take action to protect the budget, for example through suspension of payments, in cases
 where the implementation by a Member State of an action financed from Union funds is affected by that Member
-State’s non-respect of relevant Union values and fundamental rights.
+Stateâ€™s non-respect of relevant Union values and fundamental rights.
 (12) The fundamental budgetary principles should be maintained. Existing derogations from those principles for specific
 areas such as research, external actions and structural funds should be reviewed and simplified as far as possible,
 taking into account their continuing relevance, their added value for the budget, and the burden they impose on
@@ -102,7 +102,7 @@ OJ L, 26.9.2024
 the sale of buildings should be allowed. To that end, such revenue should be considered as internal assigned revenue
 which can be carried over until it is fully used.
 (17) In the interest of simplification and in order to align better the timing of contributions from Member States with the
-corresponding payment needs, all additional financial contributions from Member States to Union’s actions and
+corresponding payment needs, all additional financial contributions from Member States to Unionâ€™s actions and
 programmes, including voluntary contributions, should be subject to the same treatment and be considered as
 external assigned revenue.
 (18) In order to increase transparency and visibility in the presentation of assigned revenue while maintaining the
@@ -149,7 +149,7 @@ evidence. Where appropriate, the data collected in relation to such indicators s
 should be collected in a way that allows for the aggregation of such data across all relevant programmes.
 (25) Considering the importance of addressing climate and environmental challenges and in order to ensure that budget
 implementation contributes to the achievement of the European Green Deal as referred to in the communication of
-the Commission of 11 December 2019 on the European Green Deal, of the Union’s climate and energy targets and
+the Commission of 11 December 2019 on the European Green Deal, of the Unionâ€™s climate and energy targets and
 of climate neutrality by 2050, the concept of performance as regards the budget should be extended to include the
 implementation of programmes and activities in a sustainable way, which would not hinder the achievement of the
 environmental objectives of climate change mitigation, climate change adaptation, the sustainable use and protection
@@ -164,7 +164,7 @@ should be of high quality and should focus on areas where it has the greatest ad
 efficient and effective as possible in delivering the common policy objectives of the Union. Making existing and new
 spending programmes and activities entailing significant spending subject to evaluation can help achieve those
 objectives.
-(28) In order to implement the Commission’s commitment to be digital by default and to foster more efficient and
+(28) In order to implement the Commissionâ€™s commitment to be digital by default and to foster more efficient and
 qualitative controls and audits by increasing the level of assurance while decreasing the cost, it is appropriate to
 introduce an explicit reference to the use of digital tools and emerging technologies such as machine learning,
 robotic process automation, data-mining and artificial intelligence.
@@ -184,7 +184,7 @@ comply with applicable data protection rules. The single integrated IT system sh
 avoiding double reporting and reducing administrative burden for Member States and other implementing entities.
 The Commission should act as the controller and be responsible for the development, management and supervision
 of the single integrated IT system. Member States, Union investigative, control and audit bodies including the
-European Anti-Fraud Office (OLAF), the Court of Auditors and the European Public Prosecutor’s Office (the ‘EPPO’)
+European Anti-Fraud Office (OLAF), the Court of Auditors and the European Public Prosecutorâ€™s Office (the â€˜EPPOâ€™)
 should have access to those data within the exercise of their respective competences. Such access should respect the
 principles of necessity and proportionality. Data available through the single integrated IT system should be made
 available to the European Parliament and the Council on a case-by-case basis to the extent necessary and
@@ -220,12 +220,12 @@ risks and take them into account in verifications and audits.
 (33) In accordance with the principle of transparency enshrined in Article 15 TFEU, Union institutions are to conduct
 their work as openly as possible. With regard to budget implementation, the application of that principle implies
 that citizens should know where, and for what purpose, funds are spent by the Union. Such information fosters
-democratic debate, contributes to the participation of citizens in the Union’s decision-making process, reinforces
+democratic debate, contributes to the participation of citizens in the Unionâ€™s decision-making process, reinforces
 institutional control and scrutiny over Union expenditure, and contributes to boosting its credibility.
 Communication should be more targeted and should aim to increase the visibility of the Union contribution for
 citizens. Such objectives should be achieved by the publication, preferably using modern communication tools, of
 relevant information concerning all recipients of funds financed from the budget which takes into account those
-recipients’ legitimate interests of confidentiality and security and, as far as natural persons are concerned, their right
+recipientsâ€™ legitimate interests of confidentiality and security and, as far as natural persons are concerned, their right
 to privacy and the protection of their personal data. Union institutions should therefore adopt a selective approach
 in the publication of information, in accordance with the principle of proportionality. Decisions to publish should
 be based on relevant criteria in order to provide meaningful information.
@@ -250,7 +250,7 @@ on level 2 of the common classification of territorial units for statistics (NUT
 ELI: http://data.europa.eu/eli/reg/2024/2509/oj 5/239EN
 OJ L, 26.9.2024
 publication of information on recipients and ensures equal treatment between Member States of different sizes while
-respecting the recipients’ right to private life and, in particular, the protection of their personal data.
+respecting the recipientsâ€™ right to private life and, in particular, the protection of their personal data.
 (38) For reasons of legal certainty and in accordance with the principle of proportionality, the situations in which
 publication should not take place should be specified. For example, information should not be published with regard
 to scholarships or other forms of direct support paid to natural persons most in need, to certain contracts with
@@ -381,7 +381,7 @@ laid down. Authorising officers by delegation should ensure that the authorising
 staff receive information and training concerning the control standards and the respective methods and techniques
 and that measures are taken in order to ensure the functioning of the control system. The authorising officer by
 delegation should report to his or her Union institution on the performance of the duties in the form of an annual
-report. That report should include the required financial and management information to support that officer’s
+report. That report should include the required financial and management information to support that officerâ€™s
 declaration of assurance on the performance of his or her duties, including the information on the overall
 performance of the operations carried out. The supporting documents relating to the operations carried out should
 be kept for at least five years. The various forms of negotiated procedure for the award of public contracts should be
@@ -436,7 +436,7 @@ Commission.
 the conditions laid down in the Staff Regulations. Specialised financial irregularities panels have been set up in Union
 institutions pursuant to Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council (19).
 However, due to the limited number of cases submitted to them and for reasons of efficiency, it is appropriate to
-transfer their functions to an interinstitutional panel established pursuant to this Regulation (the ‘panel’). The panel
+transfer their functions to an interinstitutional panel established pursuant to this Regulation (the â€˜panelâ€™). The panel
 should be set up to assess requests and issue recommendations on the need to take decisions on exclusion and
 imposition of financial penalties referred to it by the Commission or other Union institutions and bodies, without
 prejudice to their administrative autonomy in respect of members of their staff. That transfer also aims to avoid
@@ -543,8 +543,8 @@ provided by Member State organisations which cannot participate in competitive p
 (90) In order to ensure compliance with the case law of the Court of Justice of the European Union (24), the authorising
 officer should request the evidence for exclusion and selection criteria to be submitted before the award decision.
 (91) It is appropriate to integrate the provisions concerning validation and authorisation of expenditure in one article and
-to introduce a definition of ‘decommitments’. Since the transactions are carried out in computerised systems, the
-signing of a ‘passed for payment’ voucher in order to express the validation decision should be replaced by an
+to introduce a definition of â€˜decommitmentsâ€™. Since the transactions are carried out in computerised systems, the
+signing of a â€˜passed for paymentâ€™ voucher in order to express the validation decision should be replaced by an
 electronically secured signature, except in a limited number of cases. It is also necessary to clarify that the validation
 of expenditure applies to all eligible costs, including, as is the case for the clearing of pre-financing, costs which are
 not associated with a payment request.
@@ -648,7 +648,7 @@ exclude a person or entity, provided that the latter is in an exclusion situatio
 engaged in certain types of serious misconduct. Without prejudice to information obligations set out in other basic
 acts, persons and entities implementing the budget under shared management should convey to the Commission,
 through any official channel, such as the automated information system established by the Commission currently in
-use for reporting of fraud and irregularities (the ‘Irregularity Management System’), information pertaining to
+use for reporting of fraud and irregularities (the â€˜Irregularity Management Systemâ€™), information pertaining to
 established facts and findings, in the context of such final judgments or final administrative decisions only with
 reference to the grounds set out under Article 138(1), points (c)(iv) and (d), when they become aware of such
 information. In the absence of a final judgment or a final administrative decision, the authorising officer responsible
@@ -760,7 +760,7 @@ identity, without prejudice to the right to be heard.
 (122) At the request of the authorising officer, the panel of the early detection and exclusion system should have the ability
 to issue its recommendations by means of an expedited procedure, without prejudice to the right to be heard. Such
 procedure should be used when the circumstances or the nature of the case requires so, for instance where a final
-judgment or a final administrative decision has been issued by a Member State’s authority but the duration of the
+judgment or a final administrative decision has been issued by a Member Stateâ€™s authority but the duration of the
 exclusion is not set; or a final judgment or a final administrative decision has been issued by a third country; or
 a sanction equivalent to an exclusion has been already imposed on the person or entity by virtue of a decision of
 international organisations.
@@ -848,8 +848,8 @@ of paying pre-financing. The requirement for contractors and beneficiaries to lo
 automatic, but should be based on a risk analysis. Where, in the course of implementation, the authorising officer
 discovers that a guarantor is not or is no longer authorised to issue guarantees in accordance with the applicable
 national law, the authorising officer should be able to require replacement of the guarantee.
-(143) The different sets of rules for direct and indirect management, in particular as regards the concept of ‘budget
-implementation tasks’, have created confusion and entailed risks of errors of qualification both for the Commission
+(143) The different sets of rules for direct and indirect management, in particular as regards the concept of â€˜budget
+implementation tasksâ€™, have created confusion and entailed risks of errors of qualification both for the Commission
 and for its partners and should thus be simplified and harmonised.
 (144) The provisions on the ex ante pillar assessment of persons and entities implementing Union funds under indirect
 management should be revised to enable the Commission to rely as much as possible on the systems, rules and
@@ -863,7 +863,7 @@ contribution agreements.
 principle of proportionality to indirect management. While the principle of proportionality cannot affect the nature
 of the obligations imposed by the relevant applicable legal framework, it should be systematically used in the
 cooperation with Union implementing partners, in order to strike the right balance between protection of the
-financial interests of the Union and preserving the Union’s ability to implement its policies. Certain adjustments and
+financial interests of the Union and preserving the Unionâ€™s ability to implement its policies. Certain adjustments and
 ELI: http://data.europa.eu/eli/reg/2024/2509/oj 17/239EN
 OJ L, 26.9.2024
 restructuring of the relevant provisions should be made. This should not be interpreted as limiting in practice the
@@ -883,7 +883,7 @@ persons and entities implementing the budget.
 (148) The proportionality principle also needs to be applied to the assessment of rules, systems and procedures of entities
 that have already been successfully assessed, such as entities using rules established by the Commission, which
 should be exempted from ex ante assessment. It should also be possible to exempt from ex ante assessment Member
-States’ organisations entrusted with the implementation of Union funds under shared management.
+Statesâ€™ organisations entrusted with the implementation of Union funds under shared management.
 (149) It is necessary to clarify that when entities are selected to work under indirect management as a result of a call for
 expression of interest, the principles of equal treatment and non-discrimination apply.
 (150) Remuneration of persons and entities implementing the budget should, where relevant and possible, be
@@ -910,7 +910,7 @@ other international financial institutions, and national entities entrusted with
 sovereign debt. For that reason and in accordance with Article 10 of Directive 2014/24/EU the rules on
 procurement laid down in this Regulation should not apply to those services.
 (27) Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the
-European Public Prosecutor’s Office (‘the EPPO’) (OJ L 283, 31.10.2017, p. 1).
+European Public Prosecutorâ€™s Office (â€˜the EPPOâ€™) (OJ L 283, 31.10.2017, p. 1).
 (28) Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concessions contracts
 (OJ L 94, 28.3.2014, p. 1).
 (29) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and
@@ -972,7 +972,7 @@ social and environmental conventions listed in Annex X to Directive 2014/24/EU, 
 the minimum requirements defined by the contracting authority and should be integrated in the contracts signed by
 the contracting authority.
 (166) It is appropriate that different cases usually referred to as situations of a conflict of interests be identified and treated
-distinctly. The notion of a ‘conflict of interests’ should be solely used for cases where a person or entity with
+distinctly. The notion of a â€˜conflict of interestsâ€™ should be solely used for cases where a person or entity with
 responsibilities for budget programming, implementation, audit or control, or an official or an agent of a Union
 institution or national authorities at any level, is in such a situation. Attempts to unduly influence an award
 procedure or obtain confidential information should be treated as grave professional misconduct which can lead to
@@ -1014,7 +1014,7 @@ Directive 2014/24/EU.
 (30) Regulation (EU) 2022/2560 of the European Parliament and of the Council of 14 December 2022 on foreign subsidies distorting
 the internal market (OJ L 330, 23.12.2022, p. 1).
 (31) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and
-general principles concerning mechanisms for control by the Member States of the Commission’s exercise of implementing powers
+general principles concerning mechanisms for control by the Member States of the Commissionâ€™s exercise of implementing powers
 (OJ L 55, 28.2.2011, p. 13, ELI: http://data.europa.eu/eli/reg/2011/182/oj).
 20/239 ELI: http://data.europa.eu/eli/reg/2024/2509/ojEN
 OJ L, 26.9.2024
@@ -1040,7 +1040,7 @@ specific procurements under a dynamic purchasing system.
 (174) Considering the progress in digitalisation of procurement procedures, it should be clarified that public openings for
 open procedures can be organised remotely via video conferences.
 (175) In order to simplify and align with the rules applicable to procurement by Union institutions on their own account,
-the obligation to publish the list of selected candidates to be invited to submit a tender on the Commission’s website
+the obligation to publish the list of selected candidates to be invited to submit a tender on the Commissionâ€™s website
 should be removed in the field of external actions.
 (176) Union procurement should ensure that Union funds are used in an effective, transparent and appropriate way, while
 reducing administrative burden on recipients of Union funds. In that regard, e-procurement should contribute to the
@@ -1082,7 +1082,7 @@ procedure should not be required in the event of administrative changes, univers
 clear and unequivocal revision clauses or options that do not alter the minimum requirements of the initial
 procedure. A new procurement procedure should be required in the case of material modifications to the initial
 contract, in particular to the scope and content of the mutual rights and obligations of the parties, including as
-regards the distribution of intellectual property rights. Such modifications demonstrate the parties’ intention to
+regards the distribution of intellectual property rights. Such modifications demonstrate the partiesâ€™ intention to
 renegotiate the essential terms or conditions of that contract, in particular if the modifications would have had an
 influence on the outcome of the procedure had the modified terms or conditions been part of the initial procedure.
 (185) Experience gained has shown that it is necessary to clarify in which cases a modification is considered altering the
@@ -1161,9 +1161,9 @@ significantly simplify administrative procedures and substantially reduce the ri
 Union intervention, lump sums, unit costs and flat rates are suitable forms of financing, in particular for
 standardised and recurrent actions, such as mobility or training activities. Moreover, as institutional cooperation
 (33) Regulation (EU) 2022/1031 of the European Parliament and of the Council of 23 June 2022 on the access of third-country
-economic operators, goods and services to the Union’s public procurement and concession markets and procedures supporting
+economic operators, goods and services to the Unionâ€™s public procurement and concession markets and procedures supporting
 negotiations on access of Union economic operators, goods and services to the public procurement and concession markets of third
-countries (International Procurement Instrument – IPI) (OJ L 173, 30.6.2022, p. 1).
+countries (International Procurement Instrument â€“ IPI) (OJ L 173, 30.6.2022, p. 1).
 ELI: http://data.europa.eu/eli/reg/2024/2509/oj 23/239EN
 OJ L, 26.9.2024
 between public administrations of Member States and of beneficiary or partner countries (institutional twinning) is
@@ -1215,15 +1215,15 @@ implementation period.
 OJ L, 26.9.2024
 (211) In order to facilitate the participation of small organisations in the implementation of the Union policies in an
 environment of limited availability of resources, it is necessary to recognise the value of the work provided by
-volunteers as eligible costs. As a result, such organisations should be able to rely to a greater extent on volunteers’
+volunteers as eligible costs. As a result, such organisations should be able to rely to a greater extent on volunteersâ€™
 work for the sake of providing co-financing to the action or the work programme. Without prejudice to the
 maximum co-financing rate specified in the basic act, in such cases, the Union grant should be limited to the
-estimated eligible costs other than those covering volunteers’ work. As volunteers’ work is a work provided by third
+estimated eligible costs other than those covering volunteersâ€™ work. As volunteersâ€™ work is a work provided by third
 parties without a remuneration being paid to them by the beneficiary, the limitation avoids reimbursing costs which
-the beneficiary did not incur. In addition, the value of the volunteers’ work should not exceed 50 % of the in-kind
+the beneficiary did not incur. In addition, the value of the volunteersâ€™ work should not exceed 50 % of the in-kind
 contributions and any other co-financing.
 (212) To ensure legal certainty, it should be clarified that, where in-kind contributions from third parties in the form of
-volunteers’ work are presented as eligible costs in the estimated budget, the co-financing to which the 50 % limit is
+volunteersâ€™ work are presented as eligible costs in the estimated budget, the co-financing to which the 50 % limit is
 applied should include all the sources of financing, that is the Union grant, in-kind contributions and other sources
 of financing.
 (213) In order to protect one of the fundamental principles of public finances, the no-profit principle should be retained in
@@ -1288,7 +1288,7 @@ evaluation demonstrating that they are effective for the achievement of the poli
 Where in duly justified cases financial instruments are established without a basic act, they should be authorised by
 the European Parliament and by the Council in the budget.
 (227) The instruments that potentially fall under Title X, such as loans, guarantees, equity investments, quasi-equity
-investment and risk-sharing instruments, should be defined. The definition of ‘risk-sharing instruments’ should allow
+investment and risk-sharing instruments, should be defined. The definition of â€˜risk-sharing instrumentsâ€™ should allow
 for the inclusion of credit enhancements for project bonds, covering the debt service risk of a project and mitigating
 the credit risk of bond holders through credit enhancements in the form of a loan or a guarantee.
 (228) Any repayment from a financial instrument or budgetary guarantee should be used for the instrument or guarantee
@@ -1310,7 +1310,7 @@ attractiveness and cost-effectiveness of Union issuance.
 26/239 ELI: http://data.europa.eu/eli/reg/2024/2509/ojEN
 OJ L, 26.9.2024
 (231) Recent experience with the funding needs for Ukraine has highlighted the disadvantages of a fragmented approach to
-the organisation of Union debt. In order to strengthen the Union’s position as an issuer of euro-denominated debt, it
+the organisation of Union debt. In order to strengthen the Unionâ€™s position as an issuer of euro-denominated debt, it
 is essential that all new issuances be organised through a single funding method, except in duly justified cases, such
 as Euratom issuance, small issuance and the funding of programmes of financial assistance for which the basic acts
 entered into force before 9 November 2022.
@@ -1334,7 +1334,7 @@ Such a strategy should be based on the pooling of funding instruments. This woul
 to organise payments to the beneficiaries independently of market conditions at the time of disbursement, while also
 reducing the risk that the Commission would have to raise fixed amounts in volatile or adverse conditions.
 (236) Giving the Commission that flexibility would require putting into place a common liquidity pool. Such a centralised
-liquidity function would render the Union’s funding capacity more resilient and able to withstand temporary
+liquidity function would render the Unionâ€™s funding capacity more resilient and able to withstand temporary
 mismatches between all inflows and outflows, based on a robust liquidity forecasting capacity.
 (237) The Commission should implement all necessary transactions aiming at a regular capital market presence, at
 achieving the best possible funding costs and at facilitating transactions in debt securities of the Union and Euratom.
@@ -1505,7 +1505,7 @@ should be clarified to mirror the different steps of the award procedure.
 non-financial donations should be included as a new budget implementation instrument. This instrument should
 not be confused with the general framework of support provided by the Union to third countries which is of
 a broader nature but can include non-financial donations. In light of the COVID-19 pandemic and the impact of
-Russia’s war of aggression against Ukraine, such an instrument should provide a stable legal basis in particular for
+Russiaâ€™s war of aggression against Ukraine, such an instrument should provide a stable legal basis in particular for
 future crisis and emergency situations and ensure that the Union institutions have the appropriate budget support
 tools to help Member States, other persons and entities when support is most needed. That instrument should be
 implemented under direct management or under indirect management by a Union body. Related provisions, such as
@@ -1517,7 +1517,7 @@ OJ L, 26.9.2024
 (268) Similar to the introduction of non-financial donations, Union institutions should be able to award prizes which are
 not financial. This is also important in order to allow contests among young people who do not have a bank account
 in their Member State, but who can easily receive their reward in a practical form. For this purpose, the definition of
-and the provisions on ‘prizes’ should be adjusted accordingly.
+and the provisions on â€˜prizesâ€™ should be adjusted accordingly.
 (269) In line with the streamlining of the existing rules and in order to avoid undue repetition, the special provisions set
 out in Part Two of Regulation (EU, Euratom) No 966/2012, applicable to the EAGF, to research, to external actions
 and to specific Union funds, should only be introduced in the relevant parts of this Regulation, provided that the
@@ -1526,7 +1526,7 @@ provisions are still used and relevant.
 appropriate to group together all provisions on annual accounts and other financial reporting.
 (271) The deadlines for the observations by the Court of Auditors on the provisional accounts and for the submission of
 the final accounts should be adjusted to take into account the timetable of the discharge procedure.
-(272) The accounts of all the Union’s revenue and expenditure, including assigned revenue and the related specific items of
+(272) The accounts of all the Unionâ€™s revenue and expenditure, including assigned revenue and the related specific items of
 expenditure, the resulting balance and the assets and liabilities of the Union shown in the balance sheet, including
 those arising from borrowing and lending operations, should be covered in the discharge decision. Likewise, the
 examination by the Court of Auditors of all revenue should include assigned revenue and the related items of
@@ -1541,7 +1541,7 @@ to reduce their emissions and make them more energy efficient. Taking into accou
 market for energy efficient buildings, there is an acute need for Union institutions to incorporate the European Green
 Deal commitments in their own building policy and to renovate their buildings, prioritising the most energy-efficient
 investments. In addition, the recent development of working methods accelerated by the COVID-19 pandemic
-requires adapting the Union institutions’ office stock in order to develop a dynamic office policy. As a consequence,
+requires adapting the Union institutionsâ€™ office stock in order to develop a dynamic office policy. As a consequence,
 financing of structural renovations by loans should be allowed, provided that it leads to savings, in accordance with
 the principle of sound financial management. The European Parliament and the Council should receive sufficient
 information for the purposes of their prior approval, including on the added value of the envisaged structural
@@ -1557,7 +1557,7 @@ which should not be set at a level lower than 85 %. It is of particular importan
 appropriate consultations during its preparatory work, including at expert level, and that those consultations be
 conducted in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on
 Better Law-Making. In particular, to ensure equal participation in the preparation of delegated acts, the European
-Parliament and the Council receive all documents at the same time as Member States’ experts, and their experts
+Parliament and the Council receive all documents at the same time as Member Statesâ€™ experts, and their experts
 systematically have access to meetings of Commission expert groups dealing with the preparation of delegated acts.
 (276) Some modifications regarding the provision of access by the Commission to data on recipients for the purposes of
 publication, and regarding the electronic recording and storage of data on recipients and their beneficial owners and
@@ -1584,18 +1584,18 @@ SUBJECT MATTER, DEFINITIONS AND GENERAL PRINCIPLES
 Article 1
 Subject matter
 This Regulation lays down the rules for the establishment and the implementation of the general budget of the European
-Union and of the European Atomic Energy Community (the ‘budget’) and the presentation and auditing of their accounts.
+Union and of the European Atomic Energy Community (the â€˜budgetâ€™) and the presentation and auditing of their accounts.
 Article 2
 Definitions
 For the purposes of this Regulation, the following definitions apply:
-(1) ‘applicant’ means a natural person or an entity with or without legal personality who has submitted an application in
+(1) â€˜applicantâ€™ means a natural person or an entity with or without legal personality who has submitted an application in
 a grant award procedure, in a non-financial donation award procedure or in a contest for prizes;
-(2) ‘application document’ means a tender, a request to participate, an application further to a call for expression of
+(2) â€˜application documentâ€™ means a tender, a request to participate, an application further to a call for expression of
 interest, a grant application, an application for a non-financial donation or an application in a contest for prizes;
-(3) ‘award procedure’ means a procurement procedure, a grant award procedure, a contest for prizes, an award procedure
+(3) â€˜award procedureâ€™ means a procurement procedure, a grant award procedure, a contest for prizes, an award procedure
 for a non-financial donation or a procedure for the selection of experts or persons or entities implementing the budget
 pursuant to Article 62(1), first subparagraph, point (c);
-(4) ‘basic act’ means a legal act, other than a recommendation or an opinion, which provides a legal basis for an action
+(4) â€˜basic actâ€™ means a legal act, other than a recommendation or an opinion, which provides a legal basis for an action
 and for the implementation of the corresponding expenditure entered in the budget or of the budgetary guarantee or
 financial assistance backed by the budget, and which may take any of the following forms:
 (a) in implementation of the Treaty on the Functioning of the European Union (TFEU) and the Treaty establishing the
@@ -1603,36 +1603,36 @@ European Atomic Energy Community (Euratom Treaty), the form of a regulation, a d
 the meaning of Article 288 TFEU; or
 (b) in implementation of Title V of the Treaty on European Union (TEU), one of the forms specified in Articles 28(1)
 and 31(2), Article 33, and Articles 42(4) and 43(2) TEU;
-(5) ‘beneficiary’ means a natural person or an entity with or without legal personality with whom a grant agreement has
+(5) â€˜beneficiaryâ€™ means a natural person or an entity with or without legal personality with whom a grant agreement has
 been signed;
 32/239 ELI: http://data.europa.eu/eli/reg/2024/2509/ojEN
 OJ L, 26.9.2024
-(6) ‘blending facility or platform’ means a cooperation framework established between the Commission and development
+(6) â€˜blending facility or platformâ€™ means a cooperation framework established between the Commission and development
 or other public finance institutions with a view to combining non-repayable forms of support and/or financial
 instruments and/or budgetary guarantees from the budget and repayable forms of support from development or other
 public finance institutions, as well as from private-sector finance institutions and private-sector investors;
-(7) ‘budget implementation’ means the carrying out of activities relating to the management, monitoring, control and
+(7) â€˜budget implementationâ€™ means the carrying out of activities relating to the management, monitoring, control and
 auditing of budget appropriations in accordance with the methods provided for in Article 62;
-(8) ‘budgetary commitment’ means the operation by which the authorising officer responsible reserves the budget
+(8) â€˜budgetary commitmentâ€™ means the operation by which the authorising officer responsible reserves the budget
 appropriations necessary to cover subsequent payments to honour legal commitments;
-(9) ‘budgetary guarantee’ means an instrument through which the Union supports a programme of actions by taking on
+(9) â€˜budgetary guaranteeâ€™ means an instrument through which the Union supports a programme of actions by taking on
 the budget an irrevocable and unconditional financial obligation that can be called upon should a specified event
 materialise during the implementation of the programme, and that remains valid for the duration of the maturity of
 the commitments made under the supported programme;
-(10) ‘building contract’ means a contract covering the purchase, exchange, long lease, usufruct, leasing, rental or hire
+(10) â€˜building contractâ€™ means a contract covering the purchase, exchange, long lease, usufruct, leasing, rental or hire
 purchase, with or without option to buy, of land, buildings or other immovable property. It covers both existing
 buildings and buildings before completion provided that the candidate has obtained a valid building permit for it. It
 does not cover buildings designed in accordance with the specifications of the contracting authority that are covered
 by works contracts;
-(11) ‘candidate’ means an economic operator that has sought an invitation or has been invited to take part in a restricted
+(11) â€˜candidateâ€™ means an economic operator that has sought an invitation or has been invited to take part in a restricted
 procedure, a competitive procedure with negotiation, a competitive dialogue, an innovation partnership, a design
 contest or a negotiated procedure;
-(12) ‘central purchasing body’ means a contracting authority providing centralised purchasing activities and, where
+(12) â€˜central purchasing bodyâ€™ means a contracting authority providing centralised purchasing activities and, where
 applicable, ancillary purchasing activities;
-(13) ‘check’ means the verification of a specific aspect of a revenue or expenditure operation;
-(14) ‘concession contract’ means a contract for pecuniary interest concluded in writing between one or more economic
+(13) â€˜checkâ€™ means the verification of a specific aspect of a revenue or expenditure operation;
+(14) â€˜concession contractâ€™ means a contract for pecuniary interest concluded in writing between one or more economic
 operators and one or more contracting authorities within the meaning of Articles 177 and 181, in order to entrust the
-execution of works or the provision and management of services to an economic operator (the ‘concession’), and
+execution of works or the provision and management of services to an economic operator (the â€˜concessionâ€™), and
 where:
 (a) the remuneration consists either solely in the right to exploit the works or services or in that right together with
 payment;
@@ -1640,122 +1640,122 @@ payment;
 those works or services encompassing demand risk or supply risk, or both. The concessionaire shall be deemed to
 assume an operating risk where, under normal operating conditions, there is no guarantee of recouping the
 investments made or the costs incurred in operating the works or the services concerned;
-(15) ‘constitution phase’ means the period during which the global provisioning is paid into the common provisioning
+(15) â€˜constitution phaseâ€™ means the period during which the global provisioning is paid into the common provisioning
 fund;
-(16) ‘contingent liability’ means a potential financial obligation that could be incurred depending on the outcome of
+(16) â€˜contingent liabilityâ€™ means a potential financial obligation that could be incurred depending on the outcome of
 a future event;
-(17) ‘contract’ means a public contract or a concession contract or, for Title VIII, a subcontract or purchase contract
+(17) â€˜contractâ€™ means a public contract or a concession contract or, for Title VIII, a subcontract or purchase contract
 concluded by a beneficiary;
-(18) ‘contractor’ means an economic operator with whom a public contract has been signed;
-(19) ‘contribution agreement’ means an agreement concluded with persons or entities implementing Union funds pursuant
+(18) â€˜contractorâ€™ means an economic operator with whom a public contract has been signed;
+(19) â€˜contribution agreementâ€™ means an agreement concluded with persons or entities implementing Union funds pursuant
 to Article 62(1), first subparagraph, points (c)(ii) to (viii);
 ELI: http://data.europa.eu/eli/reg/2024/2509/oj 33/239EN
 OJ L, 26.9.2024
-(20) ‘control’ means any measure taken to provide reasonable assurance regarding the effectiveness, efficiency and
+(20) â€˜controlâ€™ means any measure taken to provide reasonable assurance regarding the effectiveness, efficiency and
 economy of operations, the reliability of reporting, the safeguarding of assets and information, the prevention and
 detection and correction of fraud and irregularities and their follow-up, and the adequate management of the risks
 relating to the legality and regularity of the underlying transactions, taking into account the multiannual character of
 programmes as well as the nature of the payments concerned. Controls may involve various checks, as well as the
 implementation of any policies and procedures to achieve the objectives referred to in the first sentence;
-(21) ‘counterpart’ means the party that is granted a budgetary guarantee;
-(22) ‘crisis’ means:
+(21) â€˜counterpartâ€™ means the party that is granted a budgetary guarantee;
+(22) â€˜crisisâ€™ means:
 (a) a situation of immediate or imminent danger threatening to escalate into an armed conflict or to destabilise
 a country or its neighbourhood;
 (b) a situation caused by natural disasters, man-made crisis such as wars and other conflicts or extraordinary
 circumstances having comparable effects related, inter alia, to climate change, public and animal health, food
 security and food safety emergencies and global health threats, such as epidemics and pandemics, environmental
 degradation, privation of access to energy and natural resources or extreme poverty;
-(23) ‘decommitment’ means an operation whereby the authorising officer responsible cancels wholly or partly the
+(23) â€˜decommitmentâ€™ means an operation whereby the authorising officer responsible cancels wholly or partly the
 reservation of appropriations previously made by means of a budgetary commitment;
-(24) ‘dynamic purchasing system’ means a completely electronic process for making commonly used purchases of items
+(24) â€˜dynamic purchasing systemâ€™ means a completely electronic process for making commonly used purchases of items
 generally available on the market;
-(25) ‘economic operator’ means any natural or legal person, including a public entity, or a group of such persons, who
+(25) â€˜economic operatorâ€™ means any natural or legal person, including a public entity, or a group of such persons, who
 offers to supply products, execute works or provide services or supply immovable property;
-(26) ‘equity investment’ means the provision of capital to a company, invested directly or indirectly in return for total or
+(26) â€˜equity investmentâ€™ means the provision of capital to a company, invested directly or indirectly in return for total or
 partial ownership of that company and where the equity investor may assume some management control of the
-company and may share the company’s profits;
-(27) ‘European office’ means an administrative structure set up by the Commission, or by the Commission with one or
+company and may share the companyâ€™s profits;
+(27) â€˜European officeâ€™ means an administrative structure set up by the Commission, or by the Commission with one or
 more other Union institutions, to perform specific cross-cutting tasks;
-(28) ‘final administrative decision’ means a decision of an administrative authority having final and binding effect in
+(28) â€˜final administrative decisionâ€™ means a decision of an administrative authority having final and binding effect in
 accordance with the applicable law;
-(29) ‘financial asset’ means any asset in the form of cash, an equity instrument of a publicly or privately held entity or
+(29) â€˜financial assetâ€™ means any asset in the form of cash, an equity instrument of a publicly or privately held entity or
 a contractual right to receive cash or another financial asset from such entity;
-(30) ‘financial instrument’ means a Union measure of financial support provided from the budget to address one or more
+(30) â€˜financial instrumentâ€™ means a Union measure of financial support provided from the budget to address one or more
 specific policy objectives of the Union which may take the form of equity or quasi-equity investments, loans or
 guarantees, or other risk-sharing instruments, and which may, where appropriate, be combined with other forms of
 financial support or with funds under shared management or funds of the European Development Fund (EDF);
-(31) ‘financial liability’ means a contractual obligation to deliver cash or another financial asset to another entity;
-(32) ‘foreign subsidy’ means a financial contribution within the meaning of Article 3(2) of Regulation (EU) 2022/2560
+(31) â€˜financial liabilityâ€™ means a contractual obligation to deliver cash or another financial asset to another entity;
+(32) â€˜foreign subsidyâ€™ means a financial contribution within the meaning of Article 3(2) of Regulation (EU) 2022/2560
 provided by a third country that falls within the description provided in Article 3(1) of that Regulation;
-(33) ‘framework contract’ means a public contract concluded between one or more economic operators and one or more
+(33) â€˜framework contractâ€™ means a public contract concluded between one or more economic operators and one or more
 contracting authorities, the purpose of which is to establish the terms governing specific contracts under it to be
 awarded during a given period, in particular with regard to price and, where appropriate, the quantity envisaged;
 34/239 ELI: http://data.europa.eu/eli/reg/2024/2509/ojEN
 OJ L, 26.9.2024
-(34) ‘global provisioning’ means the total amount of resources deemed necessary over the entire lifetime of a budgetary
+(34) â€˜global provisioningâ€™ means the total amount of resources deemed necessary over the entire lifetime of a budgetary
 guarantee or financial assistance to a third country as a result of applying the provisioning rate referred to in Article
 214(1) to the amount of the budgetary guarantee or financial assistance to a third country authorised by the basic act
 referred to in Article 213(1), points (b) and (c);
-(35) ‘grant’ means a financial contribution by way of donation. Where such a contribution is provided under direct
+(35) â€˜grantâ€™ means a financial contribution by way of donation. Where such a contribution is provided under direct
 management, it shall be governed by Title VIII;
-(36) ‘guarantee’ means a written commitment to assume responsibility for all or part of a third party’s debt or obligation or
+(36) â€˜guaranteeâ€™ means a written commitment to assume responsibility for all or part of a third partyâ€™s debt or obligation or
 for the successful performance by that third party of its obligations if an event occurs which triggers such guarantee,
 such as a loan default;
-(37) ‘guarantee on demand’ means a guarantee that must be honoured by the guarantor upon the counterpart’s demand,
+(37) â€˜guarantee on demandâ€™ means a guarantee that must be honoured by the guarantor upon the counterpartâ€™s demand,
 notwithstanding any deficiencies in the enforceability of the underlying obligation;
-(38) ‘in-kind contribution’ means non-financial resources made available free of charge by third parties to a beneficiary;
-(39) ‘legal commitment’ means an act whereby the authorising officer responsible enters into or establishes an obligation
+(38) â€˜in-kind contributionâ€™ means non-financial resources made available free of charge by third parties to a beneficiary;
+(39) â€˜legal commitmentâ€™ means an act whereby the authorising officer responsible enters into or establishes an obligation
 which results in a subsequent payment and the recognition of expenditure covered by a budgetary commitment, or in
 an obligation to provide a non-financial donation, and which includes specific agreements and contracts concluded
 under financial framework partnership agreements and framework contracts;
-(40) ‘leverage effect’ means the amount of reimbursable financing provided to eligible final recipients divided by the
+(40) â€˜leverage effectâ€™ means the amount of reimbursable financing provided to eligible final recipients divided by the
 amount of the Union contribution;
-(41) ‘liquidity risk’ means the risk that a financial asset held in the common provisioning fund might not be sold during
+(41) â€˜liquidity riskâ€™ means the risk that a financial asset held in the common provisioning fund might not be sold during
 a certain period of time without incurring a significant loss;
-(42) ‘loan’ means an agreement which obliges the lender to make available to the borrower an agreed amount of money for
+(42) â€˜loanâ€™ means an agreement which obliges the lender to make available to the borrower an agreed amount of money for
 an agreed period and under which the borrower is obliged to repay that amount within the agreed period;
-(43) ‘low value grant’ means a grant lower than or equal to EUR 60 000;
-(44) ‘Member State organisation’ means an entity established in a Member State as a public law body, or as a body governed
+(43) â€˜low value grantâ€™ means a grant lower than or equal to EUR 60 000;
+(44) â€˜Member State organisationâ€™ means an entity established in a Member State as a public law body, or as a body governed
 by private law entrusted with a public service mission and provided with adequate financial guarantees from the
 Member State;
-(45) ‘method of implementation’ means any of the methods of budget implementation referred to in Article 62, that is
+(45) â€˜method of implementationâ€™ means any of the methods of budget implementation referred to in Article 62, that is
 direct management, indirect management and shared management;
-(46) ‘multi-donor action’ means any action where Union funds are pooled with at least one other donor;
-(47) ‘multiple sourcing procurement’ means procurement where it is intended to award multiple contracts concluded in
+(46) â€˜multi-donor actionâ€™ means any action where Union funds are pooled with at least one other donor;
+(47) â€˜multiple sourcing procurementâ€™ means procurement where it is intended to award multiple contracts concluded in
 writing in parallel between multiple economic operators and one or more contracting authorities within the meaning
 of Article 177(1), in order to entrust the execution of identical or quasi-identical services, supplies or works to be
 performed in parallel by different contractors;
-(48) ‘multiplier effect’ means the investment by eligible final recipients divided by the amount of the Union contribution;
-(49) ‘non-governmental organisation’ means a voluntary, independent from government, non-profit organisation, which is
+(48) â€˜multiplier effectâ€™ means the investment by eligible final recipients divided by the amount of the Union contribution;
+(49) â€˜non-governmental organisationâ€™ means a voluntary, independent from government, non-profit organisation, which is
 not a political party or a trade union;
-(50) ‘output’ means the deliverables generated by the action determined in accordance with sector-specific rules;
+(50) â€˜outputâ€™ means the deliverables generated by the action determined in accordance with sector-specific rules;
 ELI: http://data.europa.eu/eli/reg/2024/2509/oj 35/239EN
 OJ L, 26.9.2024
-(51) ‘participant’ means a candidate or tenderer in a procurement procedure, an applicant in a grant award procedure or in
+(51) â€˜participantâ€™ means a candidate or tenderer in a procurement procedure, an applicant in a grant award procedure or in
 a non-financial donation award procedure, an expert in a procedure for selection of experts, an applicant in a contest
 for prizes or a person or entity participating in a procedure for implementing Union funds pursuant to Article 62(1),
 first subparagraph, point (c);
-(52) ‘presumed successful tenderer’ means any tenderer in a procurement procedure that is ranked first, subject to further
+(52) â€˜presumed successful tendererâ€™ means any tenderer in a procurement procedure that is ranked first, subject to further
 checks and provision of supporting documents on exclusion and/or selection criteria in order to be proposed by the
 evaluation committee as a successful tenderer. Where the award procedure foresees to award the contract to several
 tenderers, then the presumed successful tenderer shall be deemed to refer to the best ranked tenderers equal to the
 number of contracts to be awarded.
-(53) ‘prize’ means a contribution given as a reward following a contest. Where such a contribution is provided under direct
+(53) â€˜prizeâ€™ means a contribution given as a reward following a contest. Where such a contribution is provided under direct
 management, it shall be governed by Title IX;
-(54) ‘procurement’ means the acquisition by means of a contract of works, supplies or services and the acquisition or rental
+(54) â€˜procurementâ€™ means the acquisition by means of a contract of works, supplies or services and the acquisition or rental
 of land, buildings or other immovable property, by one or more contracting authorities from economic operators
 chosen by those contracting authorities;
-(55) ‘procurement document’ means any document produced or referred to by the contracting authority to describe or
+(55) â€˜procurement documentâ€™ means any document produced or referred to by the contracting authority to describe or
 determine elements of the procurement procedure, including:
 (a) the publicity measures set out in Article 166;
 (b) the invitation to tender;
 (c) the tender specifications, including the technical specifications and the relevant criteria, or the descriptive
 documents in the case of a competitive dialogue;
 (d) the draft contract;
-(56) ‘professional conflicting interests’ means a situation in which the previous or ongoing professional activities of an
+(56) â€˜professional conflicting interestsâ€™ means a situation in which the previous or ongoing professional activities of an
 economic operator affect or risk affecting its capacity to perform a contract in an independent, impartial and objective
 manner;
-(57) ‘public contract’ means a contract for pecuniary interest concluded in writing between one or more economic
+(57) â€˜public contractâ€™ means a contract for pecuniary interest concluded in writing between one or more economic
 operators and one or more contracting authorities within the meaning of Articles 177 and 181, in order to obtain,
 against payment of a price paid in whole or in part from the budget, the supply of movable or immovable assets, the
 execution of works or the provision of services, comprising:
@@ -1763,50 +1763,50 @@ execution of works or the provision of services, comprising:
 (b) supply contracts;
 (c) works contracts;
 (d) service contracts;
-(58) ‘quasi-equity investment’ means a type of financing that ranks between equity and debt, having a higher risk than
+(58) â€˜quasi-equity investmentâ€™ means a type of financing that ranks between equity and debt, having a higher risk than
 senior debt and a lower risk than common equity and which can be structured as debt, typically unsecured and
 subordinated and in some cases convertible into equity, or into preferred equity;
-(59) ‘recipient’ means a beneficiary, a contractor, a remunerated external expert or a person or entity receiving prizes,
+(59) â€˜recipientâ€™ means a beneficiary, a contractor, a remunerated external expert or a person or entity receiving prizes,
 non-financial donations or support from the budget under a financial instrument or a budgetary guarantee, or
 implementing Union funds pursuant to Article 62(1), first subparagraph, point (c);
-(60) ‘repurchase agreement’ means the sale of securities for cash with an agreement to repurchase them on a specified
+(60) â€˜repurchase agreementâ€™ means the sale of securities for cash with an agreement to repurchase them on a specified
 future date, or on demand;
 36/239 ELI: http://data.europa.eu/eli/reg/2024/2509/ojEN
 OJ L, 26.9.2024
-(61) ‘research and technological development appropriation’ means an appropriation entered either in one of the titles of
-the budget relating to the policy areas linked to ‘Indirect research’ or ‘Direct research’ or in a chapter relating to
+(61) â€˜research and technological development appropriationâ€™ means an appropriation entered either in one of the titles of
+the budget relating to the policy areas linked to â€˜Indirect researchâ€™ or â€˜Direct researchâ€™ or in a chapter relating to
 research activities in another title;
-(62) ‘result’ means the effects of the implementation of an action determined in accordance with sector-specific rules;
-(63) ‘risk-sharing instrument’ means a financial instrument which allows for the sharing of a defined risk between two or
+(62) â€˜resultâ€™ means the effects of the implementation of an action determined in accordance with sector-specific rules;
+(63) â€˜risk-sharing instrumentâ€™ means a financial instrument which allows for the sharing of a defined risk between two or
 more entities, where appropriate in exchange for an agreed remuneration;
-(64) ‘service contract’ means a contract covering all intellectual and non-intellectual services other than those covered by
+(64) â€˜service contractâ€™ means a contract covering all intellectual and non-intellectual services other than those covered by
 supply contracts, works contracts and building contracts;
-(65) ‘sound financial management’ means implementation of the budget in accordance with the principles of economy,
+(65) â€˜sound financial managementâ€™ means implementation of the budget in accordance with the principles of economy,
 efficiency and effectiveness;
-(66) ‘Staff Regulations’ means the Staff Regulations of Officials of the European Union and the Conditions of Employment
+(66) â€˜Staff Regulationsâ€™ means the Staff Regulations of Officials of the European Union and the Conditions of Employment
 of Other Servants of the European Union laid down in Regulation (EEC, Euratom, ECSC) No 259/68;
-(67) ‘subcontractor’ means an economic operator that is proposed by a candidate or tenderer or contractor to perform part
+(67) â€˜subcontractorâ€™ means an economic operator that is proposed by a candidate or tenderer or contractor to perform part
 of a contract or by a beneficiary to perform part of the tasks co-financed by a grant;
-(68) ‘subscription’ means sums paid to bodies of which the Union is member, in accordance with the budgetary decisions
+(68) â€˜subscriptionâ€™ means sums paid to bodies of which the Union is member, in accordance with the budgetary decisions
 and the conditions of payment established by the body concerned;
-(69) ‘supply contract’ means a contract covering the purchase, leasing, rental or hire purchase, with or without option to
+(69) â€˜supply contractâ€™ means a contract covering the purchase, leasing, rental or hire purchase, with or without option to
 buy, of products, and which may include, as an incidental matter, siting and installation operations;
-(70) ‘technical assistance’ means, without prejudice to sector-specific rules, support and capacity-building activities
+(70) â€˜technical assistanceâ€™ means, without prejudice to sector-specific rules, support and capacity-building activities
 necessary for the implementation of a programme or an action, in particular preparatory, management, monitoring,
 evaluation, audit and control activities;
-(71) ‘tenderer’ means an economic operator that has submitted a tender;
-(72) ‘Union’ means the European Union, the European Atomic Energy Community, or both, as the context may require;
-(73) ‘Union institution’ means the European Parliament, the European Council, the Council, the Commission, the Court of
+(71) â€˜tendererâ€™ means an economic operator that has submitted a tender;
+(72) â€˜Unionâ€™ means the European Union, the European Atomic Energy Community, or both, as the context may require;
+(73) â€˜Union institutionâ€™ means the European Parliament, the European Council, the Council, the Commission, the Court of
 Justice of the European Union, the Court of Auditors, the European Economic and Social Committee, the Committee
 of the Regions, the European Ombudsman, the European Data Protection Supervisor or the European External Action
-Service (the ‘EEAS’); the European Central Bank shall not be considered to be a Union institution;
-(74) ‘vendor’ means an economic operator registered in a list of vendors to be invited to submit requests to participate in or
+Service (the â€˜EEASâ€™); the European Central Bank shall not be considered to be a Union institution;
+(74) â€˜vendorâ€™ means an economic operator registered in a list of vendors to be invited to submit requests to participate in or
 submit tenders;
-(75) ‘very low value grant’ means a grant lower than or equal to EUR 15 000;
-(76) ‘volunteer’ means a person working on a non-compulsory basis for an organisation without being paid;
-(77) ‘a work’ means the outcome of building or civil engineering works taken as a whole that is sufficient in itself to fulfil
+(75) â€˜very low value grantâ€™ means a grant lower than or equal to EUR 15 000;
+(76) â€˜volunteerâ€™ means a person working on a non-compulsory basis for an organisation without being paid;
+(77) â€˜a workâ€™ means the outcome of building or civil engineering works taken as a whole that is sufficient in itself to fulfil
 an economic or technical function;
-(78) ‘works contract’ means a contract covering either:
+(78) â€˜works contractâ€™ means a contract covering either:
 (a) the execution or both the execution and design of a work; or
 (b) the execution or both the execution and design of works related to one of the activities referred to in Annex II to
 Directive 2014/24/EU; or
@@ -2171,7 +2171,7 @@ Article 22
 Structure to accommodate assigned revenue and provision of corresponding appropriations
 1. Without prejudice to paragraph 2, first subparagraph, point (c), of this Article and to Article 24, the structure to
 accommodate assigned revenue in the budget shall comprise:
-(a) in the statement of revenue of each Union institution’s section, a budget line to receive the revenue;
+(a) in the statement of revenue of each Union institutionâ€™s section, a budget line to receive the revenue;
 (b) in the statement of expenditure, the remarks, including general remarks, showing which budget lines may receive the
 appropriations corresponding to the assigned revenue which are made available;
 (c) in the statement of expenditure, an annex, forming an integral part of the budget, setting out all the budget lines for
@@ -2204,7 +2204,7 @@ Article 5 of Regulation (EU, Euratom) No 609/2014, shall be paid as follows:
 (b) the remaining five twelfths shall be paid by 15 July of the current financial year.
 2. Where the budget has not been definitively adopted before the start of a financial year, the contributions provided for
 in paragraph 1 shall be based on the sum entered in the budget for the preceding financial year.
-3. Any contribution or additional payment owed by Member States to the budget shall be entered in the Commission’s
+3. Any contribution or additional payment owed by Member States to the budget shall be entered in the Commissionâ€™s
 account or accounts within thirty calendar days of the call for funds.
 4. Payments made shall be entered in the account provided for in Regulation (EU, Euratom) No 609/2014 and shall be
 subject to the conditions laid down by that Regulation.
@@ -2213,7 +2213,7 @@ Assigned revenue resulting from the participation of EFTA States in certain Unio
 1. The budget structure to accommodate the revenue from the participation of EFTA States in certain Union
 programmes shall be as follows:
 (a) in the statement of revenue, a budget line with a token entry pro memoria shall be entered to accommodate the full
-amount of each EFTA State’s contribution for the financial year;
+amount of each EFTA Stateâ€™s contribution for the financial year;
 (b) in the statement of expenditure, an annex, forming an integral part of the budget, shall set out all the budget lines
 covering the Union activities in which EFTA States participate, and shall include information on the estimated amount
 of the participation of each EFTA State.
@@ -2250,7 +2250,7 @@ The authorising officer responsible shall provide information in the annual acti
 cases where the Commission accepted a donation pursuant to the first subparagraph of this paragraph.
 Article 26
 Corporate sponsorship
-1. ‘Corporate sponsorship’ means an agreement by which a legal person supports in-kind an event or an activity for
+1. â€˜Corporate sponsorshipâ€™ means an agreement by which a legal person supports in-kind an event or an activity for
 promotional or corporate social responsibility purposes.
 2. On the basis of specific internal rules, which shall be published on their respective websites, Union institutions and
 bodies may exceptionally accept corporate sponsorship provided that:
@@ -2341,7 +2341,7 @@ the budget line to which the transfer is made;
 a maximum of 10 % of the appropriations for the financial year shown on the budget line from which the transfer is
 made;
 (d) with regard to research and technological development appropriations implemented by the JRC, within the title of the
-budget relating to the ‘Direct research’ policy area, transfer appropriations between chapters of up to a maximum of
+budget relating to the â€˜Direct researchâ€™ policy area, transfer appropriations between chapters of up to a maximum of
 15 % of the appropriations on the budget line from which the transfer is made;
 (e) with regard to research and technological development, transfer operational appropriations from one title to another,
 provided that the appropriations are used for the same purpose;
