@@ -1,0 +1,6 @@
+Longueur de séquences utilisé - nombre de mots prédits - temps d'execution
+100 - 2000 - 53.6s
+200 - 4000 - 1m22.4s
+500 - 10000 - 2m59.9s
+1000- 20000 - 5m32.5s
+1250 - 25000 - 6m58.5s
