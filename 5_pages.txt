@@ -16,7 +16,7 @@ Acting in accordance with the ordinary legislative procedure (2),
 Whereas:
 (1) A number of amendments are to be made to Regulation (EU, Euratom) 2018/1046 of the European Parliament and
 of the Council (3). In the interests of clarity and legal certainty, that Regulation should be recast.
-(2) This Regulation lays down the financial rules applicable to the general budget of the Union (the ‘budget’) within the
+(2) This Regulation lays down the financial rules applicable to the general budget of the Union (the â€˜budgetâ€™) within the
 meaning of Article 322 of the Treaty on the Functioning of the European Union (TFEU) and does not regulate or
 affect the implementation of restrictive measures adopted on the basis of the TFEU and the Treaty on European
 Union (TEU), including in the framework of implementation of the budget.
@@ -68,7 +68,7 @@ the Charter of Fundamental Rights of the European Union, and respect the Union v
 (11) This Regulation should enable authorising officers, where relevant in accordance with sector-specific rules, to adopt
 appropriate measures and take action to protect the budget, for example through suspension of payments, in cases
 where the implementation by a Member State of an action financed from Union funds is affected by that Member
-State’s non-respect of relevant Union values and fundamental rights.
+Stateâ€™s non-respect of relevant Union values and fundamental rights.
 (12) The fundamental budgetary principles should be maintained. Existing derogations from those principles for specific
 areas such as research, external actions and structural funds should be reviewed and simplified as far as possible,
 taking into account their continuing relevance, their added value for the budget, and the burden they impose on
@@ -102,7 +102,7 @@ OJ L, 26.9.2024
 the sale of buildings should be allowed. To that end, such revenue should be considered as internal assigned revenue
 which can be carried over until it is fully used.
 (17) In the interest of simplification and in order to align better the timing of contributions from Member States with the
-corresponding payment needs, all additional financial contributions from Member States to Union’s actions and
+corresponding payment needs, all additional financial contributions from Member States to Unionâ€™s actions and
 programmes, including voluntary contributions, should be subject to the same treatment and be considered as
 external assigned revenue.
 (18) In order to increase transparency and visibility in the presentation of assigned revenue while maintaining the
@@ -149,7 +149,7 @@ evidence. Where appropriate, the data collected in relation to such indicators s
 should be collected in a way that allows for the aggregation of such data across all relevant programmes.
 (25) Considering the importance of addressing climate and environmental challenges and in order to ensure that budget
 implementation contributes to the achievement of the European Green Deal as referred to in the communication of
-the Commission of 11 December 2019 on the European Green Deal, of the Union’s climate and energy targets and
+the Commission of 11 December 2019 on the European Green Deal, of the Unionâ€™s climate and energy targets and
 of climate neutrality by 2050, the concept of performance as regards the budget should be extended to include the
 implementation of programmes and activities in a sustainable way, which would not hinder the achievement of the
 environmental objectives of climate change mitigation, climate change adaptation, the sustainable use and protection
@@ -164,7 +164,7 @@ should be of high quality and should focus on areas where it has the greatest ad
 efficient and effective as possible in delivering the common policy objectives of the Union. Making existing and new
 spending programmes and activities entailing significant spending subject to evaluation can help achieve those
 objectives.
-(28) In order to implement the Commission’s commitment to be digital by default and to foster more efficient and
+(28) In order to implement the Commissionâ€™s commitment to be digital by default and to foster more efficient and
 qualitative controls and audits by increasing the level of assurance while decreasing the cost, it is appropriate to
 introduce an explicit reference to the use of digital tools and emerging technologies such as machine learning,
 robotic process automation, data-mining and artificial intelligence.
@@ -184,7 +184,7 @@ comply with applicable data protection rules. The single integrated IT system sh
 avoiding double reporting and reducing administrative burden for Member States and other implementing entities.
 The Commission should act as the controller and be responsible for the development, management and supervision
 of the single integrated IT system. Member States, Union investigative, control and audit bodies including the
-European Anti-Fraud Office (OLAF), the Court of Auditors and the European Public Prosecutor’s Office (the ‘EPPO’)
+European Anti-Fraud Office (OLAF), the Court of Auditors and the European Public Prosecutorâ€™s Office (the â€˜EPPOâ€™)
 should have access to those data within the exercise of their respective competences. Such access should respect the
 principles of necessity and proportionality. Data available through the single integrated IT system should be made
 available to the European Parliament and the Council on a case-by-case basis to the extent necessary and
@@ -220,12 +220,12 @@ risks and take them into account in verifications and audits.
 (33) In accordance with the principle of transparency enshrined in Article 15 TFEU, Union institutions are to conduct
 their work as openly as possible. With regard to budget implementation, the application of that principle implies
 that citizens should know where, and for what purpose, funds are spent by the Union. Such information fosters
-democratic debate, contributes to the participation of citizens in the Union’s decision-making process, reinforces
+democratic debate, contributes to the participation of citizens in the Unionâ€™s decision-making process, reinforces
 institutional control and scrutiny over Union expenditure, and contributes to boosting its credibility.
 Communication should be more targeted and should aim to increase the visibility of the Union contribution for
 citizens. Such objectives should be achieved by the publication, preferably using modern communication tools, of
 relevant information concerning all recipients of funds financed from the budget which takes into account those
-recipients’ legitimate interests of confidentiality and security and, as far as natural persons are concerned, their right
+recipientsâ€™ legitimate interests of confidentiality and security and, as far as natural persons are concerned, their right
 to privacy and the protection of their personal data. Union institutions should therefore adopt a selective approach
 in the publication of information, in accordance with the principle of proportionality. Decisions to publish should
 be based on relevant criteria in order to provide meaningful information.
@@ -247,4 +247,4 @@ the funds are being used by the recipient and should therefore be removed after 
 concerned, the publication of personal data should respect the principle of proportionality between the importance
 of the amount granted and the need to control the best use of the funds. In such cases, the publication of the region
 on level 2 of the common classification of territorial units for statistics (NUTS) is consistent with the objective of
-ELI: http://data.europa.eu/eli/reg/2024/2509/oj 5/239
+ELI: http://data.europa.eu/eli/reg/2024/2509/oj 5/239EN
