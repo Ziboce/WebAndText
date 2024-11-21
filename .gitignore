@@ -1,3 +1,4 @@
 *.pth
 output.txt
 *adele.model
+word2vec_from_scratch.ipynb
